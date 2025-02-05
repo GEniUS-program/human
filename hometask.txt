@@ -1,0 +1,7 @@
+GEniUS-program/human master branch отличается от YandexLyceum/human demo branch файлом README: добавлены символы
+hat added
+merge buttons to boots_buttons
+dots
+boots
+heat added
+init
